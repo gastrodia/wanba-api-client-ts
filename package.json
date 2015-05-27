@@ -1,0 +1,23 @@
+{
+  "name": "wanba-api-client-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gastrodia/wanba-api-client-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastrodia/wanba-api-client-ts/issues"
+  },
+  "homepage": "https://github.com/gastrodia/wanba-api-client-ts",
+  "dependencies": {
+    "request": "^2.55.0",
+    "typescript-require": "^0.2.9"
+  }
+}
